@@ -374,6 +374,13 @@ export const themes = {
     border_color: "170F0C",
     bg_color: "170F0C",
   },
+  catppuccin_mocha: {
+    title_color: "89b4fa",
+    text_color: "cdd6f4",
+    icon_color: "f5c2e7",
+    border_color: "313244",
+    bg_color: "1e1e2e",
+  },
 };
 
 export default themes;
